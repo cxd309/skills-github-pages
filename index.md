@@ -1,3 +1,8 @@
-# Welcome to my github pages
+---
+title: GitHub Page Tutorial Index
+---
 
-This is a github pages tutorial site
+# GitHub Pages tutorial
+
+This is where some content would go
+
